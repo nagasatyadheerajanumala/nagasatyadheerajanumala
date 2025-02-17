@@ -23,20 +23,20 @@
 * Optimized ETL workflows using multithreading and parallel processing, boosting pipeline performance by 35%, reducing processing time by 50%, and enabling real-time analytics for strategic decision-making.
 * Developed and deployed secure REST APIs with AES encryption, SHA-256 hashing, and OAuth 2.0, fortifying data confidentiality while achieving 99.99% system uptime and zero security breaches.
 
-💼 **Software Development Engineer-1** at Joyride Games Oct 2022 - Jan 2023
-* Engineered and executed a high-performance Admin API integration within the production stage environment, revolutionising data retrieval capabilities, resulting in a 30% reduction in latency and facilitating seamless real-time updates across the system.
-* Developed and implemented a comprehensive system architecture, seamlessly integrating 25 APIs to optimize the player matching process and in-match responses. This remarkable achievement led to a 40% decrease in latency, greatly
+💼 **Software Development Engineer-1** @ Joyride Games || Oct 2022 - Jan 2023
+* Engineered and executed a high-performance Admin API integration within the production stage environment, revolutionizing data retrieval capabilities, resulting in a 30% reduction in latency and facilitating seamless real-time updates across the system.
+* Developed and implemented a comprehensive system architecture, seamlessly integrating 25 APIs to optimize the player-matching process and in-match responses. This remarkable achievement led to a 40% decrease in latency, greatly
 improving gameplay satisfaction and engagement metrics.
 * Technical skills: Java, AWS, Play framework, REST APIs, Postman, Docker, Jenkins, WEB 3.0, SQL, Micro-services
 
-💼 **Software Development Engineer-1** at Amazon Jun 2021 - Aug 2022
+💼 **Software Development Engineer-1** @ Amazon || Jun 2021 - Aug 2022
 * Architected and implemented a robust Search UI with advanced features like JDBC and feature toggle, resulting in a highly efficient and low latency search operation. Developed algorithms to enable real-time validation of invoice batch
 data across 120 APIs, significantly improving process speed and accuracy.
 * Streamlined collaborative approach with division clients to evaluate and incorporate supplementary fields into invoice header, simplifying downstream audit process and boosting efficiency by 40%
 * Collaborated with cross-functional teams to develop and deploy 12+ feature additions to the services, resulting in a 20% improvement in invoice validation accuracy and a 30% increase in overall process efficiency.
 
-💼 **Machine Learning Engineer Intern** at Agriiprince
-* Architected and executed the development of an end-to-end Interactive Chatbot for Agrii Prince's Android and web applications; harnessed the power of RASA platform, Deep NLP, and Dialogflow to optimise user interactions, resulting in a 60% reduction in customer support response time and a 20% increase in customer retention.
+💼 **Machine Learning Engineer Intern** @ Agriiprince
+* Architected and executed the development of an end-to-end Interactive Chatbot for Agrii Prince's Android and web applications; harnessed the power of the RASA platform, Deep NLP, and Dialogflow to optimize user interactions, resulting in a 60% reduction in customer support response time and a 20% increase in customer retention.
 * Spearheaded the creation of a Model Monitoring Dashboard leveraging Stream-lit, enabling real-time tracking of Model Evaluation Metrics, Model Drift, and Data; resulted in a 25% reduction in model downtime and improved overall model
 performance.
 * Collaborated with cross-functional teams to design and deploy large language models for advanced text generation applications; enhanced chatbot responses by 40% and increased user engagement.
