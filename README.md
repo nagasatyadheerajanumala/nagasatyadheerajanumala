@@ -17,13 +17,19 @@
 ## About Me
 🎓 **Masters Science in Statistics & Data Science** at Rutgers University
 
-💼 **Software Development Engineer-1** at Joyride Games
+
+💼 **Software Development Engineer I @ VerosAI Aug 2024 - Present
+• Engineered a highly scalable backend system for seamless data migration to SAP S/4HANA Cloud, ensuring 100% data integrity with enterprise-grade validation, AI-driven anomaly detection, and regulatory compliance.
+• Optimized ETL workflows using multithreading and parallel processing, boosting pipeline performance by 35%, reducing processing time by 50%, and enabling real-time analytics for strategic decision-making.
+• Developed and deployed secure REST APIs with AES encryption, SHA-256 hashing, and OAuth 2.0, fortifying data confidentiality while achieving 99.99% system uptime and zero security breaches.
+
+💼 **Software Development Engineer-1** at Joyride Games Oct 2022 - Jan 2023
 * Engineered and executed a high-performance Admin API integration within the production stage environment, revolutionising data retrieval capabilities, resulting in a 30% reduction in latency and facilitating seamless real-time updates across the system.
 * Developed and implemented a comprehensive system architecture, seamlessly integrating 25 APIs to optimize the player matching process and in-match responses. This remarkable achievement led to a 40% decrease in latency, greatly
 improving gameplay satisfaction and engagement metrics.
 * Technical skills: Java, AWS, Play framework, REST APIs, Postman, Docker, Jenkins, WEB 3.0, SQL, Micro-services
 
-💼 **Software Development Engineer-1** at Amazon
+💼 **Software Development Engineer-1** at Amazon Jun 2021 - Aug 2022
 * Architected and implemented a robust Search UI with advanced features like JDBC and feature toggle, resulting in a highly efficient and low latency search operation. Developed algorithms to enable real-time validation of invoice batch
 data across 120 APIs, significantly improving process speed and accuracy.
 * Streamlined collaborative approach with division clients to evaluate and incorporate supplementary fields into invoice header, simplifying downstream audit process and boosting efficiency by 40%
