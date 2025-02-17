@@ -19,9 +19,9 @@
 
 
 💼 **Software Development Engineer I @ VerosAI Aug 2024 - Present
-• Engineered a highly scalable backend system for seamless data migration to SAP S/4HANA Cloud, ensuring 100% data integrity with enterprise-grade validation, AI-driven anomaly detection, and regulatory compliance.
-• Optimized ETL workflows using multithreading and parallel processing, boosting pipeline performance by 35%, reducing processing time by 50%, and enabling real-time analytics for strategic decision-making.
-• Developed and deployed secure REST APIs with AES encryption, SHA-256 hashing, and OAuth 2.0, fortifying data confidentiality while achieving 99.99% system uptime and zero security breaches.
+* Engineered a highly scalable backend system for seamless data migration to SAP S/4HANA Cloud, ensuring 100% data integrity with enterprise-grade validation, AI-driven anomaly detection, and regulatory compliance.
+* Optimized ETL workflows using multithreading and parallel processing, boosting pipeline performance by 35%, reducing processing time by 50%, and enabling real-time analytics for strategic decision-making.
+* Developed and deployed secure REST APIs with AES encryption, SHA-256 hashing, and OAuth 2.0, fortifying data confidentiality while achieving 99.99% system uptime and zero security breaches.
 
 💼 **Software Development Engineer-1** at Joyride Games Oct 2022 - Jan 2023
 * Engineered and executed a high-performance Admin API integration within the production stage environment, revolutionising data retrieval capabilities, resulting in a 30% reduction in latency and facilitating seamless real-time updates across the system.
