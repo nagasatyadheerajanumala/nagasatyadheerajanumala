@@ -2,7 +2,7 @@
 <h3 align="center">📈 Data Scientist & Data Engineer | Master's in Statistics & Data Science @ Rutgers | Passionate about Machine Learning & Data-Driven Insights 🌟</h3>
 <img aligh="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Machine learning and Deep learning**
+- 🔭 I’m currently working on **Software Development using Java, SpringBoot, PostgreSQL, Docker**
 
 - 🌱 I’m currently learning **Statistics, Deep learning**
 
