@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nagasatyadheerajanumala](https://github.com/nagasatyadheerajanumala)
 
-- Connect with me on 📧 [LinkedIn](https://www.linkedin.com/in/naga-satya-dheeraj-a-02314b129/)
+- Connect with me on 📧 [LinkedIn](https://www.linkedin.com/in/naga-satya-dheerajanumala/)
 
 - 💬 Ask me about **EDA, MEARN, ML, DL**
 
