@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Naga Satya Dheeraj Anumala</h1>
-<h3 align="center">📈 Data Scientist & Data Engineer | Master's in Statistics & Data Science @ Rutgers | Passionate about Machine Learning & Data-Driven Insights 🌟</h3>
+<h3 align="center">📈Software Development Engineer & Data Scientist | Master's in Statistics  @ Rutgers | Passionate about Software lifecycle, Machine Learning & Data-Driven Insights 🌟</h3>
 <img aligh="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Software Development using Java, SpringBoot, PostgreSQL, Docker**
+- 🔭 I’m currently working on **Software Development using Java, SpringBoot, PostgreSQL, Kubernetes, Maven, HTML, CSS, JavaScript and Docker**
 
-- 🌱 I’m currently learning **Statistics, Deep learning**
+- 🌱 I’m currently learning **Software Life Cycle, Machine Learning & Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nagasatyadheerajanumala](https://github.com/nagasatyadheerajanumala)
 
 - Connect with me on 📧 [LinkedIn](https://www.linkedin.com/in/naga-satya-dheerajanumala/)
 
-- 💬 Ask me about **EDA, MEARN, ML, DL**
+- 💬 Ask me about **SDE, EDA, MEARN, ML, DL**
 
-- 📫 How to reach me **dheeraj.anumala@rutgers.edu**
+- 📫 How to reach me **dheerajanumala2688@gmail.com**
 
 ## About Me
-🎓 **Masters Science in Statistics & Data Science** at Rutgers University
+🎓 ** Masters Science in Statistics & Data Science** at Rutgers University 
+   ** Ex-Software Development Engineer I @ Amazon 
+   ** SDE-I @ VerosAI
+   ** IIT Kharagpur Alumni
 
 
 💼 **Software Development Engineer I** @ VerosAI Aug 2024 - Present
