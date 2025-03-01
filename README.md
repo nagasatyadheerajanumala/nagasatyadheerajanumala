@@ -15,10 +15,10 @@
 - 📫 How to reach me **dheerajanumala2688@gmail.com**
 
 ## About Me
-🎓 ** Masters Science in Statistics & Data Science** at Rutgers University 
-   ** Ex-Software Development Engineer I @ Amazon 
-   ** SDE-I @ VerosAI
-   ** IIT Kharagpur Alumni
+🎓 **Masters Science in Statistics & Data Science** at Rutgers University 
+   **Ex-Software Development Engineer I @ Amazon 
+   **SDE-I @ VerosAI
+   **IIT Kharagpur Alumni
 
 
 💼 **Software Development Engineer I** @ VerosAI Aug 2024 - Present
