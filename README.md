@@ -25,7 +25,7 @@
 * Enabled real-time observability by integrating distributed tracing, metrics collection, and WebSocket-based live dashboards, giving users instant visibility into performance issues.
 * Increased customer transparency and trust by providing public status pages with shareable analytics, cached metadata, and uptime SLA badges for external stakeholders.
   
-💼 **Software Development Engineer I** @ VerosAI Aug 2024 - Apr 2025
+💼 **Founding Engineer I** @ VerosAI Aug 2024 - Apr 2025
 * Engineered a highly scalable backend system for seamless data migration to SAP S/4HANA Cloud, ensuring 100% data integrity with enterprise-grade validation, AI-driven anomaly detection, and regulatory compliance.
 * Optimized ETL workflows using multithreading and parallel processing, boosting pipeline performance by 35%, reducing processing time by 50%, and enabling real-time analytics for strategic decision-making.
 * Developed and deployed secure REST APIs with AES encryption, SHA-256 hashing, and OAuth 2.0, fortifying data confidentiality while achieving 99.99% system uptime and zero security breaches.
